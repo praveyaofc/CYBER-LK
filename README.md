@@ -4,7 +4,7 @@
     <img alt=Support height="350" src=""> 
     </p>
 
-<h1 align="center">    DARK SHAN MD WHATSAPP BOT
+<h1 align="center">    CYBER-LK MD WHATSAPP BOT
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkushansewmina2580%2FDARK-SHAN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
